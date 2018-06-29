@@ -1,3 +1,6 @@
 [submodule "AKS-learning-series"]
 	path = AKS-learning-series
 	url = https://github.com/NileshGule/AKS-learning-series
+[submodule "AKS-learning-series-Team1"]
+	path = AKS-learning-series-Team1
+	url = https://github.com/NileshGule/AKS-learning-series
